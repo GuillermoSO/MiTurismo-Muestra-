@@ -1,0 +1,28 @@
+img {
+    display: block;
+    max-width:230px;
+    max-height:95px;
+    width: auto;
+    height: auto;
+  }
+
+#TituloPuntos {
+    margin: auto;
+    text-align-last: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#DescripcionPuntos {
+    margin: auto;
+    text-align-last: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: lightblue;
+    background-clip: content-box;
+}
+
+#URL {
+    text-align-last: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
